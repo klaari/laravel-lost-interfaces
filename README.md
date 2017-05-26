@@ -1,5 +1,7 @@
 # laravel-lost-interfaces
 
+[![Latest Stable Version](https://poser.pugx.org/jalle19/laravel-lost-interfaces/v/stable)](https://packagist.org/packages/jalle19/laravel-lost-interfaces)
+
 If you've used the Laravel framework for a while, you may have noticed that the common convention is to add certain 
 methods that will magically get called at some point.
 
