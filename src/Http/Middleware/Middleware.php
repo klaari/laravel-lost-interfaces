@@ -3,7 +3,7 @@
 namespace Jalle19\Laravel\LostInterfaces\Http\Middleware;
 
 use Closure;
-use Symfony\Component\HttpFoundation\Request;
+use Illuminate\Http\Request;
 
 /**
  * Interface for HTTP request middleware
