@@ -9,7 +9,8 @@ Common examples are console commands that should have a `handle()` method, middl
 method, and so on.
 
 This can get pretty annoying since you need to look up the correct method names and their signatures from the 
-documentation.
+documentation. Not having interfaces also makes it harder to use your IDE to find which classes implement some 
+functionality (e.g. finding all event subscribers to ensure you've actually registered all of them).
 
 This library provides some of these missing interfaces.
 
