@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "illuminate/events": "^5.4",
-        "illuminate/http": "^5.4"
+        "illuminate/events": "^5.4|^6.0",
+        "illuminate/http": "^5.4|^6.0"
     },
     "autoload": {
         "psr-4": {
